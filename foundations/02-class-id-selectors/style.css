@@ -1,0 +1,16 @@
+.pk-bg{
+    background-color: pink;
+}
+#one{
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
+#two{
+    background-color: greenyellow;
+    font-weight:bold;
+}
+.add{
+    font-weight: 600;
+    font-size: 20px;
+}
