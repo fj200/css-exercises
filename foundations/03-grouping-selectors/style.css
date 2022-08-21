@@ -1,0 +1,12 @@
+.uni1{
+    background-color: black;
+    color: white;
+}
+.uni2{
+    background-color: yellow;
+}
+.uni1,
+.uni2{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 24px;
+}
